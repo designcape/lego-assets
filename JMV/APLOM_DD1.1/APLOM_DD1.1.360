@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 36,
+    "horizontalStartingIndex": 18,
+    "horizontalWrap": true,
+    "name": "APLOM_DD1.1",
+    "type": "KeyShotXR",
+    "verticalFrames": 10,
+    "verticalStartingIndex": 2,
+    "verticalWrap": false
+}
